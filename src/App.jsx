@@ -2,6 +2,9 @@ import React from 'react';
 
 function App() {
   return (
+    <header>
+        <div className="logo">VIPRE Blog</div>
+      </header>
     <div className="container">
       {/* ✅ Your custom header */}
       <header>
