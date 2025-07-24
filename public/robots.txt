@@ -1,5 +1,4 @@
 User-agent: *
-
-Disallow: # Allow everything
+Disallow:
 
 Sitemap: https://vipreshort.pages.dev/sitemap.xml
