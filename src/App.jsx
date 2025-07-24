@@ -111,7 +111,7 @@ function App() {
       <p>No matter which method or version you’re using, these steps will help you get the most out of your VIPRE security software.</p>
 
       <p>Looking for more help or a downloadable version of this guide? Stay tuned for upcoming posts.</p>
-      
+
       <footer>
         &copy; 2025 VipreShort.
       </footer>
