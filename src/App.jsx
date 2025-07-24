@@ -1,5 +1,9 @@
 function App() {
   return (
+    <header>
+        <div class="logo">VIPRE Blog</div>
+        
+    </header>
     <div style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
       <h1>Unlocking VIPRE: The Complete Guide to Download, Install, and Reinstall Using Any Product Key or Activation Code</h1>
 
