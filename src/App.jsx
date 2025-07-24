@@ -113,7 +113,7 @@ function App() {
       <p>Looking for more help or a downloadable version of this guide? Stay tuned for upcoming posts.</p>
     </div>
     <footer>
-        &copy; 2025 VIPRE Short. All rights reserved.
+       VipreShort. 
     </footer>
   );
 }
