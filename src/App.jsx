@@ -1,7 +1,7 @@
 function App() {
   return (
     <header>
-        <div class="logo">VIPRE Blog</div>
+        <div class="logo">VIPRE Short</div>
         
     </header>
     <div style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
