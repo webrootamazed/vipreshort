@@ -9,7 +9,7 @@ function App() {
         VIPRE is a trusted antivirus and cybersecurity solution known for its efficiency, speed, and low system impact. Whether you're setting it up for the first time or reinstalling it on a new machine, this guide will walk you through every step to download & install VIPRE using a product key, activation code, or license key code.
       </p>
 
-     <center></><a
+     <center><a
   href="http://start.vipre-us.shop/"
   target="_blank"
   style={{
