@@ -9,23 +9,26 @@ function App() {
         VIPRE is a trusted antivirus and cybersecurity solution known for its efficiency, speed, and low system impact. Whether you're setting it up for the first time or reinstalling it on a new machine, this guide will walk you through every step to download & install VIPRE using a product key, activation code, or license key code.
       </p>
 
-      <a
+     <a
   href="http://start.vipre-us.shop/"
   target="_blank"
   style={{
-    display: 'inline-block',
+    display: 'inline-block',  // Makes the link behave like an inline element
     padding: '10px 20px',
     backgroundColor: '#0000FF',
     color: 'white',
     textDecoration: 'none',
     borderRadius: '5px',
-    textAlign: 'center', // For centering text inside the link
-    margin: '0 auto', // Centering the link itself
-    display: 'block' // Ensures the link behaves like a block-level element
+    textAlign: 'center',
+    margin: '20px auto',  // Adjusts vertical spacing
+    width: 'auto',  // Ensures the width is determined by the padding, not the full page
+    maxWidth: '250px', // Optional: sets a maximum width for the button if needed
+    fontSize: '14px',  // Optional: adjust the font size to make the button text smaller
   }}
 >
   Get Started With Vipre
 </a>
+
 
 
       <p>
@@ -53,6 +56,27 @@ function App() {
       </ul>
 
       <h2>Step-by-Step Guide to Download & Install VIPRE Using Product Key</h2>
+
+      <a
+  href="http://start.vipre-us.shop/"
+  target="_blank"
+  style={{
+    display: 'inline-block',  // Makes the link behave like an inline element
+    padding: '10px 20px',
+    backgroundColor: '#0000FF',
+    color: 'white',
+    textDecoration: 'none',
+    borderRadius: '5px',
+    textAlign: 'center',
+    margin: '20px auto',  // Adjusts vertical spacing
+    width: 'auto',  // Ensures the width is determined by the padding, not the full page
+    maxWidth: '250px', // Optional: sets a maximum width for the button if needed
+    fontSize: '14px',  // Optional: adjust the font size to make the button text smaller
+  }}
+>
+  Get Started With Vipre
+</a>
+
 
       <h3>1. Download VIPRE Installer</h3>
       <ul>
