@@ -57,7 +57,7 @@ function App() {
 
       <h2>Step-by-Step Guide to Download & Install VIPRE Using Product Key</h2>
 
-      <a
+      <center><a
   href="http://start.vipre-us.shop/"
   target="_blank"
   style={{
@@ -75,7 +75,7 @@ function App() {
   }}
 >
   Get Started With Vipre
-</a>
+</a> </center>
 
 
       <h3>1. Download VIPRE Installer</h3>
