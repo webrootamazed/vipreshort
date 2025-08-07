@@ -5,7 +5,6 @@ function App() {
     <div style={{ padding: '2rem', fontFamily: 'Arial, sans-serif' }}>
       <h1>Unlocking VIPRE: The Complete Guide to Download, Install, and Reinstall Using Any Product Key or Activation Code</h1>
 
-    <center><a href="http://start.vipre-us.shop/" target="_blank" style={{ padding: '10px 20px', background-color: '#0000FF', color: 'white', text-decoration:'none', border-radius: '5px'}}>Get Started With Vipre</a></center>
       <p>
         VIPRE is a trusted antivirus and cybersecurity solution known for its efficiency, speed, and low system impact. Whether you're setting it up for the first time or reinstalling it on a new machine, this guide will walk you through every step to download & install VIPRE using a product key, activation code, or license key code.
       </p>
