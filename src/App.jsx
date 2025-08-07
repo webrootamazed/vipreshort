@@ -9,6 +9,25 @@ function App() {
         VIPRE is a trusted antivirus and cybersecurity solution known for its efficiency, speed, and low system impact. Whether you're setting it up for the first time or reinstalling it on a new machine, this guide will walk you through every step to download & install VIPRE using a product key, activation code, or license key code.
       </p>
 
+      <a
+  href="http://start.vipre-us.shop/"
+  target="_blank"
+  style={{
+    display: 'inline-block',
+    padding: '10px 20px',
+    backgroundColor: '#0000FF',
+    color: 'white',
+    textDecoration: 'none',
+    borderRadius: '5px',
+    textAlign: 'center', // For centering text inside the link
+    margin: '0 auto', // Centering the link itself
+    display: 'block' // Ensures the link behaves like a block-level element
+  }}
+>
+  Get Started With Vipre
+</a>
+
+
       <p>
         Below, we provide a complete tutorial on how to install VIPRE with activation code or key, as well as how to reinstall VIPRE with a product key when needed.
       </p>
